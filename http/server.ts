@@ -1,3 +1,4 @@
+// deno run --allow-net server.ts
 import {
   serve,
   Server,
